@@ -1,6 +1,14 @@
 # App Gerenciador de tarefas feito com Angular 2
 
-## Como testar a aplicação em modo de desenvolvimento
+## Como instalar
+
+```bash
+$ git clone https://github.com/armenio/todo-mvc-app.git aplicacao
+$ cd aplicacao
+$ npm install
+```
+
+## Como rodar a aplicação em modo de desenvolvimento
 
 ```bash
 $ cd /caminho/da/aplicacao
